@@ -1,12 +1,23 @@
-- 👋 Hi, I’m Folasade Adeoye
-- 👀 I’m interested in Data Analysis using Microsoft Excel and Visualization
-- 🌱 I’m currently learning Data Analysis using Microsoft Excel and Power Bi
-- 💞️ I’m looking to collaborate on data analysis and visualization projects
-- 📫 How to reach me ayanslim@gmail.com
-- 😄 Pronouns: She
-- ⚡ Fun fact: ...
+# Hi there, I'm Folasade Adeoye! 👋
 
-<!---
-Ayan-Sade/Ayan-Sade is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+Welcome to my GitHub profile! I'm passionate about Data Analysis, Visualizations, and creating meaningful solutions through statistical analysis.
+
+## 🚀 About Me
+- 🌱 I’m currently learning **Data Analysis with Microsoft Excel, Power Bi** to expand my skill set.
+- 💻 I enjoy working on **open-source projects** and collaborating with others.
+- 🎯 My goal is to contribute to impactful projects and help solve real-world problems.
+
+## 🛠️ Skills & Tools
+- **Microsoft Excel:** Data Analysis Toolpak, Power Query, C++
+- **Visualization:** Power Bi
+
+## 📫 How to Reach Me
+- **Email:** [ayanslim@gmail.com](mailto:ayanslim@gmail.com)
+
+## 🌟 Fun Facts
+- I’m a lifelong learner who enjoys solving puzzles and challenges.
+- I believe collaboration and teamwork lead to the best results.
+
+---
+
+Let's build something amazing together! 🚀
